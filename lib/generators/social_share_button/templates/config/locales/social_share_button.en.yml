@@ -1,6 +1,6 @@
 en:
   social_share_button:
-    share_to: Share to %{name}
+    share_to: Share on %{name}
     baidu: Baidu.com
     delicious: Delicious
     douban: Douban
